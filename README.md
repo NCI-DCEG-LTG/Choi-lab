@@ -2,7 +2,7 @@
 
 
 ### Jiyeon Choi Lab
-- **GitHub**: [NCIChoiLab](https://github.com/NCI-ChoiLab)
+- **GitHub**: [NCI-ChoiLab](https://github.com/NCI-ChoiLab)
 - **Folder**: [lab-name/](./lab-name/)
 
 
